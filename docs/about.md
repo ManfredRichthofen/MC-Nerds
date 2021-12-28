@@ -5,7 +5,7 @@ navname: About
 
 # {{ site.serverName }}
 
-Moonrise is a simple, flexible template website for Minecraft servers.
+
 
 [GitHub](https://github.com/ManfredRichthofen/MC-Nerds)
 
