@@ -12,7 +12,7 @@ navname: About
 
 # Terms of Use
 
-Moonrise MC is free for use [under the MIT license](https://github.com/ManfredRichthofen/MC-Nerds).
+Free for use [under the MIT license](https://github.com/ManfredRichthofen/MC-Nerds).
 
 
 # Privacy Policy
